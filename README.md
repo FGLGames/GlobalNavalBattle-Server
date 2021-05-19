@@ -1,0 +1,2 @@
+# GlobalNavalBattle-Server
+GlobalNavalBattle сервер
